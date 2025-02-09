@@ -155,9 +155,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 **Contact**
+## 📞 Contact
 
-- **GitHub**: [Bharath-S-J](https://github.com/Bharath-S-J)
-- **LinkedIn**: [Bharath S J](https://www.linkedin.com/in/bharath-s-j-56a734206)
-- **Portfolio**: [Portfolio Website](#) *(Link to be added)*
+You can connect with me through the following platforms:
+
+- **GitHub**: [Bharath S J](https://github.com/Bharath-S-J)  
+  Explore my repositories and projects.
+
+- **LinkedIn**: [Bharath S J](https://www.linkedin.com/in/bharath-s-j-56a734206)  
+  Let's connect and discuss potential opportunities.
+
+- **Portfolio**: [Portfolio Website](https://portfolio-bharathsj.vercel.app)  
+  Check out my work and projects.
 

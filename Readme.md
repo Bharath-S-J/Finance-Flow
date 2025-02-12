@@ -166,6 +166,6 @@ You can connect with me through the following platforms:
 - )  
   Let's connect and discuss potential opportunities.
 
-- **Portfolio**: [Portfolio Website](https://portfolio-bharathsj.vercel.app)  
+- **Portfolio**: [Portfolio Website](https://bharathsjweb.vercel.app/)  
   Check out my work and projects.
 

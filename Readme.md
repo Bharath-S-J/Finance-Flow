@@ -1,5 +1,5 @@
 # 💰 **Finance Flow**
-
+ 
 A comprehensive **desktop application** for managing **loan applications, processing, and tracking**, built with **Python and MySQL**.
 
 ---
